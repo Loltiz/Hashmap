@@ -111,7 +111,7 @@ if __name__ == "__main__":
         hm.put(k, v)
         
     try:
-        hm.get("Charlie")
-        hm.get("Zack")
+        hm.get("mmmom")
+        hm.get("calvvin")
     except KeyError:
         pass
